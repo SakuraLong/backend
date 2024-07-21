@@ -1,0 +1,8 @@
+/media/**
+__pycache__
+**/migrations/**
+!**/migrations/__init__.py
+.vscode
+
+password.py
+config.py
